@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manidhar and I'm a java developer, from kurnool</p>
+<p align="left">My name is Manidhar</p>
 
 ###
 
