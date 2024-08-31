@@ -6,7 +6,7 @@
 <p align="left">🎓 Completed my B.Tech in Computer Science</p>
 <p align="left">🔍 Good at Data Structures and Algorithms</p>
 <p align="left">💻 Experienced with Windows and Linux operating systems</p>
-<p align="left">💼 Currently working as a Backend Developer in C++</p>
+<p align="left">💼 Currently working as a Backend Developer</p>
 
 <h2 align="left">I code with</h2>
 
