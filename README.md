@@ -3,8 +3,10 @@
 <p align="left">My name is Manidhar</p>
 
 <h2 align="left">About me</h2>
-
-<p align="left">📚 Interested in learning new skills</p>
+<p align="left">🎓 Completed my B.Tech in Computer Science</p>
+<p align="left">🔍 Good at Data Structures and Algorithms</p>
+<p align="left">💻 Experienced with Windows and Linux operating systems</p>
+<p align="left">💼 Currently working as a Backend Developer in C++</p>
 
 <h2 align="left">I code with</h2>
 
