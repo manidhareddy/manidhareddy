@@ -60,7 +60,7 @@ COFFEE      = "required before git push"
 
 ![Manidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manidhareddy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&icon_color=00ff41&text_color=c8ffd4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidhareddy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=c8ffd4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidhareddy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=c8ffd4&count_private=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manidhareddy&theme=terminal&hide_border=true&background=0a0f0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=5a8a63&dates=5a8a63&currStreakNum=c8ffd4&sideNums=c8ffd4)
 
