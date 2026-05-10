@@ -11,7 +11,7 @@
 
 ### `> Backend Engineer · DevOps · Systems Thinker`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Writing+code+that+ships.;Automating+everything+in+between.;C+%2B+Go+%2B+Java+%2B+Linux+%3D+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Writing+efficient+code.;Deploying+with+confidence.;Always+learning+something+new.)](https://github.com/manidhareddy)
 
 </div>
 
@@ -60,9 +60,9 @@ COFFEE      = "required before git push"
 
 ![Manidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manidhareddy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&icon_color=00ff41&text_color=c8ffd4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidhareddy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=c8ffd4&count_private=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidhareddy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=c8ffd4)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manidhareddy&theme=terminal&hide_border=true&background=0a0f0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=5a8a63&dates=5a8a63&currStreakNum=c8ffd4&sideNums=c8ffd4)
+![GitHub Streak](https://streak-stats.demolab.com?user=manidhareddy&theme=terminal&hide_border=true&background=0a0f0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=5a8a63&dates=5a8a63)
 
 </div>
 
@@ -82,7 +82,7 @@ COFFEE      = "required before git push"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manidharreddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manidharreddy)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manidhareddy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manidhar@email.com)
 
