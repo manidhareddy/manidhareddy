@@ -1,25 +1,100 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-<p align="left">My name is Manidhar</p>
+```
+███╗   ███╗ █████╗ ███╗   ██╗██╗██████╗ ██╗  ██╗ █████╗ ██████╗
+████╗ ████║██╔══██╗████╗  ██║██║██╔══██╗██║  ██║██╔══██╗██╔══██╗
+██╔████╔██║███████║██╔██╗ ██║██║██║  ██║███████║███████║██████╔╝
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║██║  ██║██╔══██║██╔══██║██╔══██╗
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██████╔╝██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<h2 align="left">About me</h2>
-<p align="left">🎓 Completed my B.Tech in Computer Science</p>
-<p align="left">🔍 Good at Data Structures and Algorithms</p>
-<p align="left">💻 Experienced with Windows and Linux operating systems</p>
-<p align="left">💼 Currently working as a Backend Developer</p>
+### `> Backend Engineer · DevOps · Learning Systems Design`
 
-<h2 align="left">I code with</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Writing+code+that+ships.;Automating+everything+in+between.;C+%2B+Go+%2B+Java+%2B+Linux+%3D+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</div>
+
+---
+
+## `whoami`
+
+```bash
+$ cat /etc/profile.d/manidhar.conf
+
+NAME        = "Manidhar Reddy"
+ROLE        = "Backend Engineer & DevOps"
+LOCATION    = "Chennai, India 🇮🇳"
+LANGUAGES   = [C, C++, Java, Go, Python]
+STACK       = [Linux, Jenkins, MySQL, Docker, Shell]
+STATUS      = "open to opportunities"
+```
+
+---
+
+## `ls -la skills/`
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ DevOps & Infra
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## `cat stats.json`
+
+<div align="center">
+
+![Manidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manidhar-reddy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&icon_color=00ff41&text_color=c8ffd4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manidhar-reddy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=c8ffd4)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manidhar-reddy&theme=terminal&hide_border=true&background=0a0f0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=5a8a63&dates=5a8a63&currStreakNum=c8ffd4&sideNums=c8ffd4)
+
+</div>
+
+---
+
+## `./activity --graph`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manidhar-reddy&theme=react-dark&bg_color=0a0f0a&color=00ff41&line=00b32c&point=00ff41&area=true&hide_border=true)
+
+</div>
+
+---
+
+## `ping manidhar`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manidhar-reddy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manidhar-reddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manidhar@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[████████████████████░░░░] systems operational · always building · never stopping
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=manidhar-reddy&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
